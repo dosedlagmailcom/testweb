@@ -56,7 +56,7 @@
 .home {
     height: 100vh;
     width: 100%;
-    background: url(https://samadhiproduction.cz/images/upload/slider/4b/masaryk-university-1080_00003.1920x1080.fit.q85.jpg);
+    background: url(masaryk-university-1080_00003.1920x1080.fit.q85.jpg);
     background-size: cover;
 }
 
@@ -117,7 +117,7 @@
 .image-block {
     margin: auto;
     margin-top: 50px;
-    background: url(https://samadhiproduction.cz/images/upload/slider/4b/masaryk-university-1080_00003.1920x1080.fit.q85.jpg);
+    background: url(masaryk-university-1080_00003.1920x1080.fit.q85.jpg);
     background-size: cover;
     width: 60%;
     height: 400px;
